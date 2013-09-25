@@ -10,11 +10,11 @@
 #include <custom_conf.h>
 #else
 #define PROTOCOL_VERSION		10
-#define MYSQL_SERVER_VERSION		"5.5.31"
+#define MYSQL_SERVER_VERSION		"5.5.32"
 #define MYSQL_BASE_VERSION		"mysqld-5.5"
-#define MYSQL_SERVER_SUFFIX_DEF		"-0ubuntu0.12.04.2"
+#define MYSQL_SERVER_SUFFIX_DEF		"-0ubuntu0.12.04.1"
 #define FRM_VER				6
-#define MYSQL_VERSION_ID		50531
+#define MYSQL_VERSION_ID		50532
 #define MYSQL_PORT			3306
 #define MYSQL_PORT_DEFAULT		0
 #define MYSQL_UNIX_ADDR			"/var/run/mysqld/mysqld.sock"
